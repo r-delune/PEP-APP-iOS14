@@ -884,7 +884,7 @@
         targetRadius=1;
     }
     
-    NSLog(@"radius - @%", targetRadius);
+//    NSLog(@"radius - @%", targetRadius);
     
     if ([stillImageFilter isKindOfClass:[GPUImageBulgeDistortionFilter class]])
     {
